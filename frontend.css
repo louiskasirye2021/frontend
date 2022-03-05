@@ -1,0 +1,85 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+}
+.div1{
+    display: flex;
+    flex-basis: 30%;
+    background-color: rgba(70, 7, 1, 0.972);
+    padding-left: 55px;
+    border-bottom: 20px solid orangered;
+    
+    
+}
+.div3{
+    display: flex;
+    
+    flex-basis: 20%;
+    background-color: black;
+    color: white;
+}
+.div2{
+    flex-basis: 50%;
+    padding: 100px;
+    background-color: rgb(31, 26, 26);
+    color: white;
+    font-family: Century Gothic;
+    padding-left: 400px;
+}
+input[type="text"]{
+    width: 550px;
+    height: 25px;
+}
+input[type="password"]{
+    width: 550px;
+    height: 25px;
+}
+.button2{
+    color: white;
+    width: 90px;
+    height: 60px;
+    background-color: orangered;
+    border-color: orangered;
+    border-radius: 30px;
+}
+.button1{
+    color: white;
+    width: 100px;
+    height: 50px;
+    background-color: orangered;
+    border-color: orangered;
+    border-radius: 30px;
+    
+}
+
+h4{
+    padding: 20px;
+    font-family: Century Gothic;
+}
+.div4{
+    padding-left: 480px;
+    display: flex;
+color: white;
+font-family: Century Gothic;
+}
+.front{
+    color: white;
+    font-family: Consolas;
+    font-size: 45px;
+}
+.masters{
+    color: orangered;
+    font-family: Vivaldi;
+    font-size: 45px;
+    
+}
+.images{
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    display: flex;
+    background-color: black;
+}
